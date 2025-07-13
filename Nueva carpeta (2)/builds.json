@@ -1,0 +1,214 @@
+{
+  "components": {
+    "cpu": [
+      {
+        "name": "AMD Ryzen 5 5600X",
+        "price": 200,
+        "type": "CPU",
+        "buy_link": "https://amazon.com/cpu/ryzen-5-5600x"
+      },
+      {
+        "name": "Intel Core i5-12400F",
+        "price": 180,
+        "type": "CPU",
+        "buy_link": "https://amazon.com/cpu/intel-i5-12400f"
+      },
+      {
+        "name": "AMD Ryzen 7 5800X",
+        "price": 300,
+        "type": "CPU",
+        "buy_link": "https://amazon.com/cpu/ryzen-7-5800x"
+      },
+      {
+        "name": "Intel Core i7-12700K",
+        "price": 350,
+        "type": "CPU",
+        "buy_link": "https://amazon.com/cpu/intel-i7-12700k"
+      },
+      {
+        "name": "AMD Ryzen 9 5900X",
+        "price": 450,
+        "type": "CPU",
+        "buy_link": "https://amazon.com/cpu/ryzen-9-5900x"
+      },
+      {
+        "name": "Intel Core i9-12900K",
+        "price": 550,
+        "type": "CPU",
+        "buy_link": "https://amazon.com/cpu/intel-i9-12900k"
+      }
+    ],
+    "gpu": [
+      {
+        "name": "NVIDIA RTX 3060",
+        "price": 300,
+        "type": "GPU",
+        "buy_link": "https://amazon.com/gpu/rtx-3060"
+      },
+      {
+        "name": "AMD RX 6600 XT",
+        "price": 280,
+        "type": "GPU",
+        "buy_link": "https://amazon.com/gpu/rx-6600-xt"
+      },
+      {
+        "name": "NVIDIA RTX 3070",
+        "price": 500,
+        "type": "GPU",
+        "buy_link": "https://amazon.com/gpu/rtx-3070"
+      },
+      {
+        "name": "AMD RX 6700 XT",
+        "price": 450,
+        "type": "GPU",
+        "buy_link": "https://amazon.com/gpu/rx-6700-xt"
+      },
+      {
+        "name": "NVIDIA RTX 3080",
+        "price": 700,
+        "type": "GPU",
+        "buy_link": "https://amazon.com/gpu/rtx-3080"
+      },
+      {
+        "name": "AMD RX 6800 XT",
+        "price": 650,
+        "type": "GPU",
+        "buy_link": "https://amazon.com/gpu/rx-6800-xt"
+      },
+      {
+        "name": "NVIDIA RTX 3090",
+        "price": 1200,
+        "type": "GPU",
+        "buy_link": "https://amazon.com/gpu/rtx-3090"
+      }
+    ],
+    "ram": [
+      {
+        "name": "Corsair Vengeance LPX 16GB DDR4-3200",
+        "price": 80,
+        "type": "RAM",
+        "buy_link": "https://amazon.com/ram/corsair-16gb-ddr4"
+      },
+      {
+        "name": "G.Skill Ripjaws V 16GB DDR4-3600",
+        "price": 90,
+        "type": "RAM",
+        "buy_link": "https://amazon.com/ram/gskill-16gb-ddr4"
+      },
+      {
+        "name": "Corsair Vengeance LPX 32GB DDR4-3200",
+        "price": 150,
+        "type": "RAM",
+        "buy_link": "https://amazon.com/ram/corsair-32gb-ddr4"
+      },
+      {
+        "name": "G.Skill Trident Z 32GB DDR4-3600",
+        "price": 180,
+        "type": "RAM",
+        "buy_link": "https://amazon.com/ram/gskill-32gb-ddr4"
+      },
+      {
+        "name": "Kingston Fury Beast 16GB DDR4-3200",
+        "price": 75,
+        "type": "RAM",
+        "buy_link": "https://amazon.com/ram/kingston-16gb-ddr4"
+      }
+    ],
+    "storage": [
+      {
+        "name": "Samsung 980 1TB NVMe SSD",
+        "price": 100,
+        "type": "Storage",
+        "buy_link": "https://amazon.com/storage/samsung-980-1tb"
+      },
+      {
+        "name": "WD Black SN750 1TB NVMe SSD",
+        "price": 110,
+        "type": "Storage",
+        "buy_link": "https://amazon.com/storage/wd-black-1tb"
+      },
+      {
+        "name": "Crucial MX4 1TB SATA SSD",
+        "price": 80,
+        "type": "Storage",
+        "buy_link": "https://amazon.com/storage/crucial-mx4-1tb"
+      },
+      {
+        "name": "Seagate Barracuda 2TB HDD",
+        "price": 60,
+        "type": "Storage",
+        "buy_link": "https://amazon.com/storage/seagate-2tb-hdd"
+      },
+      {
+        "name": "Samsung 980 Pro 2TB NVMe SSD",
+        "price": 250,
+        "type": "Storage",
+        "buy_link": "https://amazon.com/storage/samsung-980-pro-2tb"
+      }
+    ],
+    "motherboard": [
+      {
+        "name": "MSI B550-A PRO",
+        "price": 80,
+        "type": "Motherboard",
+        "buy_link": "https://amazon.com/motherboard/msi-b550-pro"
+      },
+      {
+        "name": "ASUS TUF Gaming B550M-PLUS",
+        "price": 100,
+        "type": "Motherboard",
+        "buy_link": "https://amazon.com/motherboard/asus-b550m-plus"
+      },
+      {
+        "name": "Gigabyte X570 AORUS Elite",
+        "price": 150,
+        "type": "Motherboard",
+        "buy_link": "https://amazon.com/motherboard/gigabyte-x570-elite"
+      },
+      {
+        "name": "MSI Z690-A PRO",
+        "price": 120,
+        "type": "Motherboard",
+        "buy_link": "https://amazon.com/motherboard/msi-z690-pro"
+      },
+      {
+        "name": "ASUS ROG Strix Z690-E",
+        "price": 250,
+        "type": "Motherboard",
+        "buy_link": "https://amazon.com/motherboard/asus-z690-strix"
+      }
+    ],
+    "psu": [
+      {
+        "name": "Corsair CV650 650W 80+ Bronze",
+        "price": 60,
+        "type": "PSU",
+        "buy_link": "https://amazon.com/psu/corsair-cv650"
+      },
+      {
+        "name": "EVGA SuperNOVA 650 G5 80+ Gold",
+        "price": 80,
+        "type": "PSU",
+        "buy_link": "https://amazon.com/psu/evga-650-g5"
+      },
+      {
+        "name": "Corsair RM750x 750W 80+ Gold",
+        "price": 110,
+        "type": "PSU",
+        "buy_link": "https://amazon.com/psu/corsair-rm750x"
+      },
+      {
+        "name": "Seasonic Focus GX-850 850W 80+ Gold",
+        "price": 140,
+        "type": "PSU",
+        "buy_link": "https://amazon.com/psu/seasonic-850-gold"
+      },
+      {
+        "name": "EVGA SuperNOVA 1000 P5 80+ Platinum",
+        "price": 180,
+        "type": "PSU",
+        "buy_link": "https://amazon.com/psu/evga-1000-p5"
+      }
+    ]
+  }
+}
